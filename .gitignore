@@ -21,5 +21,6 @@
 go.work
 go.work.sum
 
+*.prof
 # env file
 .env
